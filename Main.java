@@ -2,6 +2,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 class Main {
+  // STATIC STATIC STATIC AAAAAAAAAHHHHHHHHHHHH
   static Random rand = new Random();
   static double lr = 1;
   static double bias = 100;
